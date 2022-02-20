@@ -52,3 +52,4 @@
 127.0.0.1 lucidlydiscretion.com
 127.0.0.1 swellknife.com
 127.0.0.1 sentineldiscordmm.com
+127.0.0.1 pyq6n.com
