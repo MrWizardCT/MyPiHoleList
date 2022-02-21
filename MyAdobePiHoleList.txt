@@ -11,7 +11,7 @@
 # Use at your own risk. I am not resposible for any        #
 # liability that may arise from the use of this list.      #
 
-#<block-adobe>
+# block-adobe
 127.0.0.1 activate.adobe.com
 127.0.0.1 practivate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -37,4 +37,3 @@
 127.0.0.1 activate.adobe.com
 127.0.0.1 genuine.adobe.com
 127.0.0.1 prod.adobegenuine.com
-#</block-adobe>
