@@ -1,0 +1,2 @@
+127.0.0.1 album-art-storage-us.s3.amazonaws.com
+127.0.0.1 m.media-amazon.com
